@@ -1,5 +1,5 @@
 from math import sqrt
- 
+#program 2 of SuperB's programs
 def check(x):
     template = "1_2_3_4_5_6_7_8_9_0"
     if (len(str(x)) != len(template)):
